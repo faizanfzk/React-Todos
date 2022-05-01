@@ -1,0 +1,17 @@
+.style{
+  
+  background:white;
+  width:80%;
+  margin-left:10%;
+  font-size:20px;
+color:cyan;
+border:2px solid yellow;
+margin-top:20px;
+border-radius:20px
+ 
+}
+.but{
+background:green;
+width:120px;
+margin:5px;
+}
